@@ -8,8 +8,8 @@
 #include "heartRate.h"
 
 // ================= ISIKAN KREDENSIAL DI SINI =================
-#define WIFI_SSID "Raza"
-#define WIFI_PASSWORD "sukamatcha"
+#define WIFI_SSID "______"
+#define WIFI_PASSWORD "______"
 
 #define DATABASE_URL "corvia-381fd-default-rtdb.asia-southeast1.firebasedatabase.app"
 #define DATABASE_SECRET "mWBT6jsO4L0rfZdG9TAI6F13muuTQtoAiNF7Mb0Q"
